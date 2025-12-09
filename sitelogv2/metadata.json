@@ -1,0 +1,8 @@
+{
+  "name": "SiteLog Field Reporter",
+  "description": "Professional field service reporting tool with AI-powered enhancements for site technicians.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
